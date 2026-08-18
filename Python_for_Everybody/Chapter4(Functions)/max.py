@@ -1,4 +1,4 @@
-big = max("Hello world")
+big = max("HELLO WoRLD")
 
 print(big)
 
